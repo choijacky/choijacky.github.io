@@ -3,11 +3,10 @@
     <br><br>
   </p>
   
-Quick links:
+About me
 ---
-[Google](https://www.google.com/)
-[Youtube](https://www.youtube.com/)
-
+ Hello! My name is Jacky Choi. I am currently enrolled in City College  
+ of San Francisco and pursuing a B.S in Computer Science. 
 
 Quote of the day:
 ---
