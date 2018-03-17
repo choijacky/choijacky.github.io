@@ -1,13 +1,15 @@
 
-
 <p align="center">
   <b>Jacky Choi</b><br>
     <br><br>
   </p>
   
-###### About me
+###### Introduction
 ---
+ Welcome to my website. 
 
+
+---
  Here are my current race results:  
  [Direct Athletics](https://www.directathletics.com/athletes/track/6574478.html)
 
