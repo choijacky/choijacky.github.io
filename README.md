@@ -5,8 +5,10 @@
   
 About me
 ---
- Hello! My name is Jacky Choi. I am currently enrolled in City College  
- of San Francisco and pursuing a B.S in Computer Science. 
+
+ Here are my current race results:  
+ [Results](https://www.directathletics.com/athletes/track/6574478.html)
+
 
 Quote of the day:
 ---
