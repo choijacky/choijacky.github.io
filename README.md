@@ -1,4 +1,6 @@
-# Jacky Choi
+<p align="center">
+  <b>Jacky Choi</b><br>
+    <br><br>
 [Google](https://www.google.com/)
 [Youtube](https://www.youtube.com/)
 
